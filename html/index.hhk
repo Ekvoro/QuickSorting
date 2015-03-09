@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a4d0f6b86ffa4dd9853ded77fddc2b155"><param name="Name" value="quicksort"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a4d0f6b86ffa4dd9853ded77fddc2b155"><param name="Name" value="quicksort"></OBJECT>
+</UL>
+</BODY>
+</HTML>
